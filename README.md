@@ -9,3 +9,7 @@ Adding changes for example
 ## Even more changes
 
 An example of automatic merge
+
+## Causing trouble
+
+Since I plan to edit the same file, this could cause a conflict.
