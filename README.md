@@ -9,3 +9,7 @@ Adding changes for example
 ## Even more changes
 
 An example of automatic merge
+
+## Update from Master
+
+This is going to be painful, be we will deal with it.
